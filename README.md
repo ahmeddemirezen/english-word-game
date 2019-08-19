@@ -16,9 +16,16 @@ pip3 install numpy (IMPORTENT)
 pip3 install random
 
 pip3 install os
+
+pip3 install codecs
+
+pip3 install tkinter
 ```
+
 ### Game Play
+
 Firstly you can push any button. Congratulations, game is start. Now you choose right answer and get score and learn words.
+
 ## Authors
 
 * **[Ahmed Demirezen](https://github.com/ahmeddemirezen)**
