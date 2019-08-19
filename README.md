@@ -2,7 +2,7 @@
 
 ## English
 
-English Turkish word game.
+English-Turkish word game.
 
 ## Getting Started
 
