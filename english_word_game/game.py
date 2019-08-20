@@ -89,7 +89,7 @@ class gui:
         self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2) - 1)
         
         while self.rn_integer in self.last10_c:
-            self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2))
+            self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2)- 1)
         
             
         self.last10_c.append(self.rn_integer)
@@ -163,7 +163,7 @@ class gui:
         self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2) - 1)
         
         while self.rn_integer in self.last10_c:
-            self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2))
+            self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2)- 1)
         
             
         self.last10_c.append(self.rn_integer)
@@ -237,7 +237,7 @@ class gui:
         self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2) - 1)
         
         while self.rn_integer in self.last10_c:
-            self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2))
+            self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2)- 1)
         
             
         self.last10_c.append(self.rn_integer)
@@ -311,7 +311,7 @@ class gui:
         self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2) - 1)
         
         while self.rn_integer in self.last10_c:
-            self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2))
+            self.rn_integer=rn.randint(0,int(read_c.uzunluk / 2)- 1)
         
             
         self.last10_c.append(self.rn_integer)
